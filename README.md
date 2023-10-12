@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exporing new Technologies, Programming languages and Developing tools.
 - 🎓 &nbsp; I did my Master in Science in Information Technology from University of Mumbai. 
-- 💼 &nbsp; Right now i am working with an awesome company named <a href="https://www.symbl.ai/">Symbl</a> as Quality Assurance Architect.
+- 💼 &nbsp; Right now i am working with an awesome company named <a href="https://sedintechnologies.com/">Sedin Technologies</a> as Test Manager.
 - 🌱 &nbsp; Learning more about Machine Learning, Systems Design and Systems Programming.
 - ✍️ &nbsp; Pursuing Technical Blog Writing as hobbies/side hustles.
 
